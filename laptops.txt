@@ -1,0 +1,4 @@
+dell
+lenovo
+hp
+apple
