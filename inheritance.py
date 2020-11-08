@@ -19,7 +19,7 @@ class child(parent):
         
 		
  
- 
+#testing object creation 
 cobj = child(1,2.0,'2');
 
 print(cobj);
